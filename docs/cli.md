@@ -1,0 +1,1 @@
+ls is a way to list files and cat is to display the file contents.
